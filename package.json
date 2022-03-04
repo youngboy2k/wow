@@ -1,0 +1,25 @@
+{
+  "name": "kwonprj",
+  "version": "1.0.0",
+  "description": "kwonprj sijak he bo ja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngboy2k/kwonprj.git"
+  },
+  "keywords": [
+    "kwonprj"
+  ],
+  "author": "kwonyounghwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngboy2k/kwonprj/issues"
+  },
+  "homepage": "https://github.com/youngboy2k/kwonprj#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
